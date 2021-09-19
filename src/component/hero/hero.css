@@ -1,0 +1,42 @@
+.hero-section {
+    position: relative;
+    padding: 14rem 0;
+}
+
+.hero-title {
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.hero-title span {
+    color: #EE4F34;
+}
+
+.hero-desc {
+    font-size: 1.25rem;
+    color: #3d3d3d;
+}
+
+.logo-row {
+    margin-top: 4rem;
+}
+
+.logo-company {
+    max-width: 100px;
+    display: inline-block;
+    margin: 0.5rem 1rem 0.5rem 0;
+}
+
+.img-div {
+    position: absolute;
+    width: 70%;
+    right: -10rem;
+    top: 0;
+    background-color: #bcdbc3af;
+    padding: 10rem;
+    border-bottom-left-radius: 8rem;
+}
+
+.hero-img {
+    width: 90%;
+}

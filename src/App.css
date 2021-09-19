@@ -1,0 +1,24 @@
+.btn-hero {
+    background-image: linear-gradient(to right, #2B2C31 0%, #585B6C 100%) !important;
+    padding: 0.75rem 3rem;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    transition: all 0.9s ease-out;
+    -webkit-transition: all 0.9s ease-out;
+    -moz-transition: all 0.9s ease-out;
+    -ms-transition: all 0.9s ease-out;
+    -o-transition: all 0.9s ease-out;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 20px 40px -7px;
+    border: none;
+}
+
+.btn-hero:hover {
+    box-shadow: rgba(0, 0, 0, 0) 0px 20px 40px -7px;
+}
+
+.secondary-title {
+    font-size: 3rem;
+}

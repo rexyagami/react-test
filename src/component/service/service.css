@@ -1,0 +1,56 @@
+.service-container {
+    background-color: #bcdbc37c;
+    padding: 0.01rem 1rem;
+}
+
+.service-title,
+.service-para {
+    text-align: center;
+}
+
+.service-section {
+    margin: 5rem 0;
+}
+
+.service-section p {
+    line-height: 1.75rem;
+    color: #363636;
+    margin-bottom: 2rem;
+}
+
+
+.service_proc_img {
+    width: 100%;
+    padding: 3rem 2rem;
+}
+
+.service-card {
+    text-align: center;
+    border: 1px dashed #616161;
+    padding: 1.5rem 1rem;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-bottom: 2rem;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+.service-card:hover {
+    background-color: #fff;
+    border-color: #fff;
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.service-card p {
+    margin-bottom: 0;
+}

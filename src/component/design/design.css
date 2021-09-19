@@ -1,0 +1,23 @@
+.design-section {
+    margin: 5rem 0;
+}
+
+.design-section p {
+    line-height: 1.75rem;
+    color: #363636;
+    margin-bottom: 2rem;
+}
+
+.design_proc_section {
+    background-color: #bcdbc37c;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.design_proc_img {
+    width: 100%;
+    padding: 3rem 2rem;
+}

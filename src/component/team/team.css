@@ -1,0 +1,32 @@
+.team-section {
+    margin: 8rem 0;
+}
+
+.secondary-title {
+    font-size: 3rem;
+}
+
+.team-section p {
+    line-height: 1.75rem;
+    color: #363636;
+    margin-bottom: 2rem;
+}
+
+.team_proc_section {
+    background-color: #bcdbc37c;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.team_proc_img {
+    width: 100%;
+    padding: 6rem 2rem;
+}
+
+.team-title {
+    font-weight: 600;
+    letter-spacing: 2px;
+}
