@@ -1,0 +1,15 @@
+.todo-text {
+    color: #000;
+}
+
+.todo-text span {
+    color: #EE4F34;
+}
+
+.toto-card {
+    border: 1px solid #4E8063;
+}
+
+.toto-card .card-body {
+    background-color: #bcdbc3af;
+}
