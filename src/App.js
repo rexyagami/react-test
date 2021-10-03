@@ -11,7 +11,7 @@ function App() {
         <Router>
           <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <Link class="navbar-brand" to="/">
-              Navbar
+              Design<span>er</span>
             </Link>
             <button
               class="navbar-toggler"

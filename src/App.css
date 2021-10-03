@@ -22,3 +22,11 @@
 .secondary-title {
     font-size: 3rem;
 }
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.navbar-brand span {
+    color: #EE4F34;
+}
